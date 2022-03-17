@@ -1,0 +1,34 @@
+program :5.20: write a program that take a number and display days
+enter any number 10 to 70 to display days =10
+ day is friday
+
+program :5.21: write a program that take a number and display days using if else
+enter any number 1 to 7  =2
+saturday
+
+ program 5.23:write a program that input number and perform an operator
+enter any number1 to calculate =8
+enter any number2  to calculate  =9
+enter any operator: +,-,*,/ *
+ mul 72.0
+
+5.24: write a program that input character and print vowel
+enter any character =c
+character is consonant
+5.26:write program that take  input choice and number and calculate membership charges.
+enter any choice 1,2,3 =2
+enter any month  =8
+charges =160.0
+
+ 5.27: write a program that input ASCII number to character and  character to ASCII
+choice 1 : toconvert ASCII to charcater
+choice 2: to convert character to ASCII
+enter your choice 1
+enter any ASCII value 80
+P
+program 5.28 : write a program that take student marks and display pass and fail
+
+ enter student marks=70
+you are pass
+
+Press any key to continue . . .
